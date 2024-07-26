@@ -12,11 +12,11 @@ Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 using Jupy
 
 ### Configuration 1
 
-![Generated Samples Image 1]("generated samples/cifar10_16_samples_6_epochs.png")
+![Generated Samples Image 1](generated_samples/cifar10_16_samples_6_epochs.png)
 
 ### Configuration 2
 
-![Generated Samples Image 2]("generated samples/cifar10_16_samples_36epochs.png")
+![Generated Samples Image 2](generated_samples/cifar10_16_samples_36epochs.png)
 
 ## 🙏 Acknowledgments
 
