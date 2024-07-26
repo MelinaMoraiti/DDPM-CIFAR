@@ -5,7 +5,7 @@ Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 using Jupy
 
 ### Configuration Details
 
-| Configuration | Epochs | Batch Size | Learning Rate | Training Time           | Model Size |
+| Configuration | Epochs | Batch Size | Learning Rate | Training Time           | GPU Usage |
 |:--------------|:-------:|:-----------:|:--------------:|:------------------------:|:----------:|
 | **1**        | 200     | 128         | 1e-4           | Approximately 20 minutes | 5.5 GB     |
 | **2**        | 400     | 128         | 1e-3           | Approximately 1 hour 46 minutes | 5.5 GB     |
