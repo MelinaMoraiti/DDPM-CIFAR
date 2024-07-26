@@ -22,4 +22,4 @@ Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 using Jupy
 
 - [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 - [Original DDPM paper](https://arxiv.org/abs/2006.11239)
-- [DiffusionFastForward](https://github.com/mikonvergence/DiffusionFastForward): A free course and experimental framework for diffusion-based generative models, which provided valuable insights and resources for this project.
+- [DiffusionFastForward](https://github.com/mikonvergence/DiffusionFastForward): A free course and experimental framework for diffusion-based generative models, which provided valuable insights and the model architecture that CIFAR-10 was trained on.
