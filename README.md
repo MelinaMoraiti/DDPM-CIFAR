@@ -11,7 +11,7 @@ Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 using Jupy
 - **Training Time:** Approximately 20 minutes
 - **GPU Usage:** 5.5 GB
 
-![Generated Samples Image 1](generated samples/sample1.png)
+![Generated Samples Image 1](generated samples/cifar10_16_samples_6epochs.png)
 
 ### Configuration 2
 
@@ -21,7 +21,7 @@ Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 using Jupy
 - **Training Time:** Approximately 1 hour 46 minutes
 - **GPU Usage:** 5.5 GB
 
-![Generated Samples Image 2](generated samples/sample2.png)
+![Generated Samples Image 2](generated samples/cifar10_16_samples_36epochs.png)
 
 ## Acknowledgments
 
