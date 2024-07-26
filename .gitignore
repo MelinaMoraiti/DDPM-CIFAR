@@ -1,3 +1,6 @@
+# Ignore Diffusion Framework code (temporary)
+DiffusionFastForward framework/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
