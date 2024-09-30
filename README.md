@@ -1,5 +1,5 @@
 # DDPM-CIFAR
-Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 using Jupyter Notebook in Google Colab.
+Training a Denoising Diffusion Probabilistic Model (DDPM) on CIFAR-10 dataset using Jupyter Notebook in Google Colab. This project focuses on image generation through diffusion processes.
 
 ## Results 
 
